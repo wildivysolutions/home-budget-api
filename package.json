@@ -1,0 +1,19 @@
+{
+  "name": "home-budget-api",
+  "version": "1.0.0",
+  "description": "API microservice for home budget app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildivysolutions/home-budget-api.git"
+  },
+  "author": "Charlie Digiglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildivysolutions/home-budget-api/issues"
+  },
+  "homepage": "https://github.com/wildivysolutions/home-budget-api#readme"
+}
